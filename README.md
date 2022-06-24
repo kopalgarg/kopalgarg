@@ -17,9 +17,3 @@ I'm Kopal Garg, a MSc student in CS at the University of Toronto/ Vector Institu
 [email]: mailto:kopal.garg@mail.utoronto.ca
 [linkedin]: https://www.linkedin.com/in/gargkopal/
 [google scholar]: https://scholar.google.ca/citations?user=0iZls38AAAAJ&hl=en
-
-<br> <br/>
-
-<a href="https://github.com/kopalgarg">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kopalgarg&show_icons=true&theme=light&line_height=27"/>
-</a>

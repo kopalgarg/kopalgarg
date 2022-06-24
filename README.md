@@ -2,7 +2,7 @@
 I'm Kopal Garg, a MSc student in CS at the University of Toronto/ Vector Institute, as well as a Data Scientist Intern at IBM.
 </h1>
 
-- 🔭 I’m currently working on statistical and deep learning models for time-series data in healthcare.
+- 🔭 I’m currently working on statistical methods and deep learning models for time-series data in healthcare.
 - 🌱 I am seeking Fall 2022 internships, as well as full-time opportunities in data science + ML starting Jan., 2023.
 - 📫 Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/kopalgarg) or [email](mailto:kopal.garg@mail.utoronto.ca).
 

@@ -24,7 +24,7 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
 
 
 <h3>Things I code with</h3>
-<h4>Cloud Technologies</h4>
+<h4>Cloud and DevOps</h4>
 <p>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -32,6 +32,10 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
   <img alt="Google DataFlow" src="https://img.shields.io/badge/-DataFlow-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img alt="Google BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img alt="Kubeflow" src="https://img.shields.io/badge/Kubeflow-000000?style=flat-square&logo=Kubeflow&logoColor=white" />
+   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="Cloud Run" src="https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="Apache Beam" src="https://img.shields.io/badge/Apache_Beam-000000?style=flat-square&logo=Apache&logoColor=white" />
 </p>
 
 <h4>Machine Learning</h4>
@@ -42,22 +46,7 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
     <img alt="Vertex AI" src="https://img.shields.io/badge/-VertexAI-4285F4?style=flat-square&logo=google&logoColor=white" />
     <img alt="AWS SageMaker" src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white" />
 </p>
- <h4>DevOps </h4>
-     <p>
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img alt="Cloud Run" src="https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-    <img alt="Apache Beam" src="https://img.shields.io/badge/Apache_Beam-000000?style=flat-square&logo=Apache&logoColor=white" />
-    </p>
- <h4> Programming Languages </h4>
-    <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-    </p>
+
   
 <h4> Bioinformatics </h4>
     <p>
@@ -65,16 +54,14 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
     <img alt="Snakemake" src="https://img.shields.io/badge/Snakemake-6DA55F?style=flat-square&logo=Snakemake&logoColor=white" /> <!-- Placeholder logo -->
     <img alt="Cromwell API" src="https://img.shields.io/badge/Cromwell_API-000000?style=flat-square&logo=API&logoColor=white" /> <!-- Placeholder logo -->
     </p>
-<h4> Data Management </h4>
+
+<h4>Data Management & SWE  </h4>
     <p>
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=sql&logoColor=white" />
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=sql&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
     <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-</p>
-<h4>SWE  </h4>
-    <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />

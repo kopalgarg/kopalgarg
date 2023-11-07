@@ -1,18 +1,3 @@
-<!--
-**kopalgarg/kopalgarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi 👋, i'm Kopal!
 
 - 📍 Data Scientist & Data Engineer [@cartography](https://www.cartography.bio/) currently in Seattle, WA
@@ -36,5 +21,66 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
 <h3>Where else to find me</h3>
 <p><a href="https://github.com/kopalgarg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/gargkopal24" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/gargkopal24" /></a> <a href="https://www.linkedin.com/in/gargkopal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://uptodata.substack.com/" target="_blank"></a>
 </p>
+
+
+<h3>Things I code with</h3>
+<h4>Cloud Technologies</h4>
+<p>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white" />
+  <img alt="Google DataFlow" src="https://img.shields.io/badge/-DataFlow-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img alt="Google BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img alt="Kubeflow" src="https://img.shields.io/badge/Kubeflow-000000?style=flat-square&logo=Kubeflow&logoColor=white" />
+</p>
+
+<h4>Machine Learning</h4>
+ <p>
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
+    <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-%2300A0F0.svg?style=flat-square&logo=OpenAI&logoColor=white" />
+    <img alt="Vertex AI" src="https://img.shields.io/badge/-VertexAI-4285F4?style=flat-square&logo=google&logoColor=white" />
+    <img alt="AWS SageMaker" src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white" />
+</p>
+ <h4>DevOps </h4>
+     <p>
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="Cloud Run" src="https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="Apache Beam" src="https://img.shields.io/badge/Apache_Beam-000000?style=flat-square&logo=Apache&logoColor=white" />
+    </p>
+ <h4> Programming Languages </h4>
+    <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </p>
+  
+<h4> Bioinformatics </h4>
+    <p>
+    <img alt="Nextflow" src="https://img.shields.io/badge/Nextflow-005571?style=flat-square&logo=Nextflow&logoColor=white" />
+    <img alt="Snakemake" src="https://img.shields.io/badge/Snakemake-6DA55F?style=flat-square&logo=Snakemake&logoColor=white" /> <!-- Placeholder logo -->
+    <img alt="Cromwell API" src="https://img.shields.io/badge/Cromwell_API-000000?style=flat-square&logo=API&logoColor=white" /> <!-- Placeholder logo -->
+    </p>
+<h4> Data Management </h4>
+    <p>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=sql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+</p>
+<h4>SWE  </h4>
+    <p>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=white" />
+    </p>
 
 ![](https://komarev.com/ghpvc/?username=kopalgarg)

@@ -47,15 +47,7 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
     <img alt="AWS SageMaker" src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white" />
 </p>
 
-  
-<h4> Bioinformatics </h4>
-    <p>
-    <img alt="Nextflow" src="https://img.shields.io/badge/Nextflow-005571?style=flat-square&logo=Nextflow&logoColor=white" />
-    <img alt="Snakemake" src="https://img.shields.io/badge/Snakemake-6DA55F?style=flat-square&logo=Snakemake&logoColor=white" /> <!-- Placeholder logo -->
-    <img alt="Cromwell API" src="https://img.shields.io/badge/Cromwell_API-000000?style=flat-square&logo=API&logoColor=white" /> <!-- Placeholder logo -->
-    </p>
-
-<h4>Data Management & SWE  </h4>
+<h4>Data Management & Visualization  </h4>
     <p>
         <img alt="SQL" src="https://img.shields.io/badge/SQL-F80000?style=flat-square&logo=sql&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -69,5 +61,10 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=white" />
     </p>
-
+<h4> Bioinformatics </h4>
+    <p>
+    <img alt="Nextflow" src="https://img.shields.io/badge/Nextflow-005571?style=flat-square&logo=Nextflow&logoColor=white" />
+    <img alt="Snakemake" src="https://img.shields.io/badge/Snakemake-6DA55F?style=flat-square&logo=Snakemake&logoColor=white" /> <!-- Placeholder logo -->
+    <img alt="Cromwell API" src="https://img.shields.io/badge/Cromwell_API-000000?style=flat-square&logo=API&logoColor=white" /> <!-- Placeholder logo -->
+    </p>
 ![](https://komarev.com/ghpvc/?username=kopalgarg)

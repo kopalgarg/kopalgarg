@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ### hi 👋, i'm Kopal!
 
 - 📍 data scientist & data engineer [@cartography](https://www.cartography.bio/) currently in seattle, wa
-- 📫 how to reach me: gargkopal24@gmail.com
+- 📚 I have a masters in CS from the university of toronto, and an engineering degree from the university of waterloo
+- 📫 feel free to ping me: gargkopal24@gmail.com
 
 <h3>my latest posts</h3>
 <ul>

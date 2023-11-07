@@ -18,11 +18,6 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
 
 </ul>
 
-<h3>Where else to find me</h3>
-<p><a href="https://github.com/kopalgarg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/gargkopal24" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/gargkopal24" /></a> <a href="https://www.linkedin.com/in/gargkopal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://uptodata.substack.com/" target="_blank"></a>
-</p>
-
-
 <h3>Things I code with</h3>
 <h4>Cloud and DevOps</h4>
 <p>
@@ -67,5 +62,10 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
     <img alt="Snakemake" src="https://img.shields.io/badge/Snakemake-6DA55F?style=flat-square&logo=Snakemake&logoColor=white" /> <!-- Placeholder logo -->
     <img alt="Cromwell API" src="https://img.shields.io/badge/Cromwell_API-000000?style=flat-square&logo=API&logoColor=white" /> <!-- Placeholder logo -->
     </p>
+
+
+<h3>Where else to find me</h3>
+<p><a href="https://github.com/kopalgarg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/gargkopal24" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/gargkopal24" /></a> <a href="https://www.linkedin.com/in/gargkopal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://uptodata.substack.com/" target="_blank"></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=kopalgarg)

@@ -67,4 +67,5 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
     <img alt="Snakemake" src="https://img.shields.io/badge/Snakemake-6DA55F?style=flat-square&logo=Snakemake&logoColor=white" /> <!-- Placeholder logo -->
     <img alt="Cromwell API" src="https://img.shields.io/badge/Cromwell_API-000000?style=flat-square&logo=API&logoColor=white" /> <!-- Placeholder logo -->
     </p>
+
 ![](https://komarev.com/ghpvc/?username=kopalgarg)

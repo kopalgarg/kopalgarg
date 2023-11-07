@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### hi 👋, i'm Kopal!
+### Hi 👋, i'm Kopal!
 
-- 📍 data scientist & data engineer [@cartography](https://www.cartography.bio/) currently in seattle, wa
-- 📚 I have a masters in CS from the university of toronto, and an engineering degree from the university of waterloo
-- 📫 feel free to ping me: gargkopal24@gmail.com
+- 📍 Data Scientist & Data Engineer [@cartography](https://www.cartography.bio/) currently in Seattle, WA
+- 📚 I have a Masters in CS from the University of Toronto, and an Engineering degree from the University of Waterloo
+- 📫 Feel free to ping me: gargkopal24@gmail.com
 
-<h3>my latest posts</h3>
+<h3>My latest posts</h3>
 <ul>
   <li><a href="https://open.substack.com/pub/uptodata/p/automated-testing-of-github-actions?r=a9dff&utm_campaign=post&utm_medium=web"><b>Automated Testing of GitHub Actions for Docker Image Deployment</b></a><br/><i>Unit and Integration Testing Strategies for Robust CI/CD Pipelines</i></li>
   <li><a href="https://open.substack.com/pub/uptodata/p/iterative-prompting-with-llms?r=a9dff&utm_campaign=post&utm_medium=web"><b>Iterative prompting with LLMs</b></a><br/><i>Feedback loops for refining text generation</i></li>
@@ -32,7 +32,7 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
 
 </ul>
 
-<h3>where else to find me</h3>
+<h3>Where else to find me</h3>
 <p><a href="https://github.com/kopalgarg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/gargkopal24" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/gargkopal24" /></a> <a href="https://www.linkedin.com/in/gargkopal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://uptodata.substack.com/" target="_blank"></a>
 </p>
 

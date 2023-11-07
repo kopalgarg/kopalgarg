@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📍 Data Scientist & Data Engineer [@cartography](https://www.cartography.bio/) currently in Seattle, WA
 - 📚 I have a Masters in CS from the University of Toronto, and an Engineering degree from the University of Waterloo
 - 📫 Feel free to ping me: gargkopal24@gmail.com
+- ✍🏼 Check out my data science and cloud computing blog: [Up To Data](https://uptodata.substack.com/)
 
 <h3>My latest posts</h3>
 <ul>

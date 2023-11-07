@@ -5,7 +5,7 @@
 - 📫 Feel free to ping me: gargkopal24@gmail.com
 - ✍🏼 Check out my data science and cloud computing blog: [Up To Data](https://uptodata.substack.com/)
 
-<h3>My latest posts</h3>
+<h3>My latest blog posts</h3>
 <ul>
   <li><a href="https://open.substack.com/pub/uptodata/p/automated-testing-of-github-actions?r=a9dff&utm_campaign=post&utm_medium=web"><b>Automated Testing of GitHub Actions for Docker Image Deployment</b></a><br/><i>Unit and Integration Testing Strategies for Robust CI/CD Pipelines</i></li>
   <li><a href="https://open.substack.com/pub/uptodata/p/iterative-prompting-with-llms?r=a9dff&utm_campaign=post&utm_medium=web"><b>Iterative prompting with LLMs</b></a><br/><i>Feedback loops for refining text generation</i></li>
@@ -18,7 +18,6 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
 
 </ul>
 
-<h3>Things I code with</h3>
 <h4>Cloud and DevOps</h4>
 <p>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -64,7 +63,7 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
     </p>
 
 
-<h3>Where else to find me</h3>
+<h3>Connect with me</h3>
 <p><a href="https://github.com/kopalgarg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/gargkopal24" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/gargkopal24" /></a> <a href="https://www.linkedin.com/in/gargkopal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://uptodata.substack.com/" target="_blank"></a>
 </p>
 

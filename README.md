@@ -7,7 +7,8 @@
 
 <h3>My latest blog posts</h3>
 <ul>
-  <li><a href="https://open.substack.com/pub/uptodata/p/setting-up-neo4j-graph-database-on?r=a9dff&utm_campaign=post&utm_medium=web"><b>Setting Up a Neo4j Graph Database on a GCP VM</i></li>
+      <li><a href="https://open.substack.com/pub/uptodata/p/setting-up-neo4j-graph-database-on?r=a9dff&utm_campaign=post&utm_medium=web"><b>Setting Up Neo4j Graph Database on a GCP VM</b></a><br/><i>Exploring Friendships and Coffee Shops with Neo4j on GCP</i></li>
+
   <li><a href="https://open.substack.com/pub/uptodata/p/automated-testing-of-github-actions?r=a9dff&utm_campaign=post&utm_medium=web"><b>Automated Testing of GitHub Actions for Docker Image Deployment</b></a><br/><i>Unit and Integration Testing Strategies for Robust CI/CD Pipelines</i></li>
   <li><a href="https://open.substack.com/pub/uptodata/p/iterative-prompting-with-llms?r=a9dff&utm_campaign=post&utm_medium=web"><b>Iterative prompting with LLMs</b></a><br/><i>Feedback loops for refining text generation</i></li>
   <li><a href="https://open.substack.com/pub/uptodata/p/failure-handling-in-apache-airflow?r=a9dff&utm_campaign=post&utm_medium=web"><b>

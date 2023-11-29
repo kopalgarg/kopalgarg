@@ -7,6 +7,7 @@
 
 <h3>My latest blog posts</h3>
 <ul>
+      <li><a href="https://open.substack.com/pub/uptodata/p/docs-of-it-didnt-happen?r=a9dff&utm_campaign=post&utm_medium=web"><b>Docs or it didn't happen</b></a><br/><i>Swagger documentation for RESTful APIs with Python and Flask</i></li>
       <li><a href="https://open.substack.com/pub/uptodata/p/setting-up-neo4j-graph-database-on?r=a9dff&utm_campaign=post&utm_medium=web"><b>Setting Up Neo4j Graph Database on a GCP VM</b></a><br/><i>Exploring Friendships and Coffee Shops with Neo4j on GCP</i></li>
 
   <li><a href="https://open.substack.com/pub/uptodata/p/automated-testing-of-github-actions?r=a9dff&utm_campaign=post&utm_medium=web"><b>Automated Testing of GitHub Actions for Docker Image Deployment</b></a><br/><i>Unit and Integration Testing Strategies for Robust CI/CD Pipelines</i></li>

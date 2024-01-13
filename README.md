@@ -33,6 +33,8 @@ Failure Handling in Apache Airflow DAGs</b></a><br/><i>Learn strategies for grac
     <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="Cloud Run" src="https://img.shields.io/badge/-Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
     <img alt="Apache Beam" src="https://img.shields.io/badge/Apache_Beam-000000?style=flat-square&logo=Apache&logoColor=white" />
+      <img alt="Google Batch" src="https://img.shields.io/badge/-Google_Batch-4285F4?style=flat-square&logo=google&logoColor=white" />
+
 </p>
 
 <h4>Machine Learning</h4>

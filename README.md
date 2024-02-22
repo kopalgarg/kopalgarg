@@ -1,12 +1,14 @@
 ### Hi 👋, i'm Kopal!
 
-- 📍 Data Scientist & Data Engineer [@cartography](https://www.cartography.bio/) currently in Seattle, WA
+- 📍 Data Scientist & MLE [@cartography](https://www.cartography.bio/) currently in Seattle, WA
 - 📚 I have a Masters in CS from the University of Toronto, and an Engineering degree from the University of Waterloo
 - 📫 Feel free to ping me: gargkopal24@gmail.com
 - ✍🏼 Check out my data science and cloud computing blog: [Up To Data](https://uptodata.substack.com/)
 
 <h3>My latest blog posts</h3>
 <ul>
+      <li><a href="https://medium.com/@kopalgarg/use-google-cloud-batch-for-running-wdls-a94ab85bca9c"><b>Use Google Cloud Batch for Running WDLs</b></a><br/></li>
+      <li><a href="https://medium.com/@kopalgarg/data-sync-between-google-bigquery-with-google-sheet-badf031b7237"><b>Data Sync Between Google BigQuery and Google Sheet</b></a><br/></li>
       <li><a href="https://open.substack.com/pub/uptodata/p/docs-of-it-didnt-happen?r=a9dff&utm_campaign=post&utm_medium=web"><b>Docs or it didn't happen</b></a><br/><i>Swagger documentation for RESTful APIs with Python and Flask</i></li>
       <li><a href="https://open.substack.com/pub/uptodata/p/setting-up-neo4j-graph-database-on?r=a9dff&utm_campaign=post&utm_medium=web"><b>Setting Up Neo4j Graph Database on a GCP VM</b></a><br/><i>Exploring Friendships and Coffee Shops with Neo4j on GCP</i></li>
 

@@ -7,6 +7,8 @@
 
 <h3>My latest blog posts</h3>
 <ul>
+       <li><a href="https://medium.com/@kopalgarg/guided-generation-for-llm-outputs-d25554a8b18a"><b>Guided Generation for LLM Outputs</b></a><br/><i>Techniques to Ensure Structured and Accurate LLM-Generated Content</i></li>
+      <li><a href="https://uptodata.substack.com/p/techbio-bytes-fabcon-a-generative"><b>TechBio Bytes: FAbCon, a generative foundation model for de novo antibody sequence generation</b></a><br/><i>First post in blog series exploring innovations in AI-driven antibody design</i></li>
       <li><a href="https://medium.com/@kopalgarg/use-google-cloud-batch-for-running-wdls-a94ab85bca9c"><b>Use Google Cloud Batch for Running WDLs</b></a><br/></li>
       <li><a href="https://medium.com/@kopalgarg/data-sync-between-google-bigquery-with-google-sheet-badf031b7237"><b>Data Sync Between Google BigQuery and Google Sheet</b></a><br/></li>
       <li><a href="https://open.substack.com/pub/uptodata/p/docs-of-it-didnt-happen?r=a9dff&utm_campaign=post&utm_medium=web"><b>Docs or it didn't happen</b></a><br/><i>Swagger documentation for RESTful APIs with Python and Flask</i></li>

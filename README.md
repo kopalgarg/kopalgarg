@@ -7,6 +7,7 @@
 
 <h3>My latest blog posts</h3>
 <ul>
+       <li><a href="https://medium.com/@kopalgarg/apache-airflow-on-helm-in-gke-cloud-functions-integration-f32749fe4eb7"><b>Apache Airflow on Helm in GKE + Cloud Functions Integration</i></li>
        <li><a href="https://uptodata.substack.com/p/generative-ai-for-protein-binder"><b>Generative AI for Protein Binder Design</b></a><br/><i>Using NVIDIA's BioNeMo to generate protein binders</i></li>
        <li><a href="https://medium.com/@kopalgarg/guided-generation-for-llm-outputs-d25554a8b18a"><b>Guided Generation for LLM Outputs</b></a><br/><i>Techniques to Ensure Structured and Accurate LLM-Generated Content</i></li>
       <li><a href="https://uptodata.substack.com/p/techbio-bytes-fabcon-a-generative"><b>TechBio Bytes: FAbCon, a generative foundation model for de novo antibody sequence generation</b></a><br/><i>First post in blog series exploring innovations in AI-driven antibody design</i></li>

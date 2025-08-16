@@ -7,7 +7,8 @@
 
 <h3>My latest blog posts</h3>
 <ul>
-       <li><a href="https://uptodata.substack.com/p/nvidias-gen-ai-toolkit"><b>Mapping NVIDIA's Full GenAI Toolchain</b></a><br/><i>A Practitioner’s Guide to NVIDIA’s GenAI Stack</i></li>
+       <li><a href="https://uptodata.substack.com/p/accelerating-densenet-121-inference"><b>Accelerating DenseNet-121 Inference NVIDIA</b></a><br/><i>Part 2: A MedNIST case study on accelerating medical imaging workflows with GPU-native pipelines</i></li>
+       <li><a href="https://uptodata.substack.com/p/nvidias-gen-ai-toolkit"><b>Mapping NVIDIA's Full GenAI Toolchain</b></a><br/><i>Part 1: A Practitioner’s Guide to NVIDIA’s GenAI Stack</i></li>
        <li><a href="https://medium.com/@kopalgarg/apache-airflow-on-helm-in-gke-cloud-functions-integration-f32749fe4eb7"><b>Apache Airflow on Helm in GKE + Cloud Functions Integration</i></li>
        <li><a href="https://uptodata.substack.com/p/generative-ai-for-protein-binder"><b>Generative AI for Protein Binder Design</b></a><br/><i>Using NVIDIA's BioNeMo to generate protein binders</i></li>
        <li><a href="https://medium.com/@kopalgarg/guided-generation-for-llm-outputs-d25554a8b18a"><b>Guided Generation for LLM Outputs</b></a><br/><i>Techniques to Ensure Structured and Accurate LLM-Generated Content</i></li>

@@ -1,6 +1,6 @@
 ### Hi 👋, i'm Kopal!
 
-- 📍 Machine Learning Engineer [@cartography](https://www.cartography.bio/) currently in Seattle, WA
+- 📍 Machine Learning Engineer
 - 📚 I have a Masters in CS from the University of Toronto, and an Engineering degree from the University of Waterloo
 - 📫 Feel free to ping me: gargkopal24@gmail.com
 - ✍🏼 Check out my data science and cloud computing blog: [Up To Data](https://uptodata.substack.com/)

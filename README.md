@@ -7,6 +7,8 @@
 
 <h3>My latest blog posts</h3>
 <ul>
+       <li><a href="https://uptodata.substack.com/p/taming-llms-with-nemo-guardrails"><b>Taming LLMs with NeMo Guardrails</b></a><br/><i>Building safer customer service and healthcare AI with NVIDIA’s NeMo Guardrails
+</i></li>
        <li><a href="https://uptodata.substack.com/p/accelerating-densenet-121-inference"><b>Accelerating DenseNet-121 Inference NVIDIA</b></a><br/><i>Part 2: A MedNIST case study on accelerating medical imaging workflows with GPU-native pipelines</i></li>
        <li><a href="https://uptodata.substack.com/p/nvidias-gen-ai-toolkit"><b>Mapping NVIDIA's Full GenAI Toolchain</b></a><br/><i>Part 1: A Practitioner’s Guide to NVIDIA’s GenAI Stack</i></li>
        <li><a href="https://medium.com/@kopalgarg/apache-airflow-on-helm-in-gke-cloud-functions-integration-f32749fe4eb7"><b>Apache Airflow on Helm in GKE + Cloud Functions Integration</i></li>
